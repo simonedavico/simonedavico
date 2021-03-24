@@ -10,7 +10,7 @@ I like to be polyglot and full-stack, and I am currently moving my first steps w
 
 - 💻 **Languages I like:**: ES6, TypeScript, ReasonML, Elixir;
 - 🗣 **Take a look at my presentations** on [SpeakerDeck](https://speakerdeck.com/simonedavico). The latest one is [A Sip of Elixir](https://speakerdeck.com/simonedavico/a-sip-of-elixir).
-- 📋 **Read my blog posts** on [Medium](https://medium.com/@simonedavico). The latest one is [To PWA or not To PWA? Our latest field experience](https://medium.com/welld-tech/to-pwa-or-not-to-pwa-our-latest-field-experience-db854638406e).
+- 📋 **Read my blog posts** on [Medium](https://medium.com/@simonedavico). The latest one is [Integrate XState with React Native and React Navigation](https://medium.com/welld-tech/integrate-xstate-with-react-native-and-react-navigation-21ead87391da).
 - 🐦 **You can find me on** [twitter](https://twitter.com/simonedavico), [LinkedIn](https://linkedin.com/in/simonedavico) or [ItaliaJS](https://italia-js.org/).
 
 ### Books 📚
