@@ -17,6 +17,11 @@ I like to be polyglot and full-stack, and I am currently moving my first steps w
 
 **Currently reading:** [Designing Data-Intensive Applications](https://dataintensive.net/)
 
+Tech books I have read in 2021:
+
+- [Frameworkless Front-End Development](https://www.apress.com/gp/book/9781484249666)
+- [Domain-Driven Design Distilled](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
+
 Tech books I have read in 2020:
 
 - [Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)
@@ -30,5 +35,6 @@ Books I plan to read next:
 - [Real-Time Phoenix](https://pragprog.com/titles/sbsockets/real-time-phoenix/)
 - [Fundamentals of Software Architecture](https://fundamentalsofsoftwarearchitecture.com/)
 - [Effective TypeScript](https://www.oreilly.com/library/view/effective-typescript/9781492053736/)
+- [Thinking in Systems]()
 
 

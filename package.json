@@ -1,0 +1,32 @@
+{
+  "name": "@simonedavico/update-readme",
+  "version": "1.0.0",
+  "description": "Simple script to automatically update my GitHub profile README from an RSS feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonedavico/simonedavico.git"
+  },
+  "author": "Simone D'Avico <simonedavico@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonedavico/simonedavico/issues"
+  },
+  "homepage": "https://github.com/simonedavico/simonedavico#readme",
+  "devDependencies": {
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "^2.3.1"
+  },
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  },
+  "lint-staged": {
+    "*.js": "prettier --write",
+    "*.{js,css,md}": "prettier --write"
+  }
+}
