@@ -17,24 +17,24 @@ I like to be polyglot and ~full-stack~ T-shaped, and I am currently moving my fi
 
 Currently reading:
 
-* [Domain Modeling Made Functional](https://beta.readng.co/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
-* [Designing Data-Intensive Applications](https://beta.readng.co/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
+* [Domain Modeling Made Functional](https://oku.club/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
+* [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
 
 Tech books I have read lately:
 
-* [Frameworkless Front-End Development](https://beta.readng.co/book/frameworkless-front-end-development-by-francesco-strazzullo-vgbH2)
-* [Domain-Driven Design Distilled](https://beta.readng.co/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
-* [Node. Js Design Patterns](https://beta.readng.co/book/node-js-design-patterns-by-mario-casciaro-D7KR3)
-* [Programming Phoenix](https://beta.readng.co/book/programming-phoenix-by-chris-mccord-xYWpd)
-* [Building Evolutionary Architectures](https://beta.readng.co/book/building-evolutionary-architectures-by-neal-ford-dXxoU)
+* [Frameworkless Front-End Development](https://oku.club/book/frameworkless-front-end-development-by-francesco-strazzullo-vgbH2)
+* [Domain-Driven Design Distilled](https://oku.club/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
+* [Node. Js Design Patterns](https://oku.club/book/node-js-design-patterns-by-mario-casciaro-D7KR3)
+* [Programming Phoenix](https://oku.club/book/programming-phoenix-by-chris-mccord-xYWpd)
+* [Building Evolutionary Architectures](https://oku.club/book/building-evolutionary-architectures-by-neal-ford-dXxoU)
 
 Books I plan to read next:
 
-* [Software Engineering at Google](https://beta.readng.co/book/software-engineering-at-google-by-titus-winters-X8Af4)
-* [Real-Time Phoenix](https://beta.readng.co/book/real-time-phoenix-by-stephen-bussey-ncVAB)
-* [Fundamentals of Software Architecture](https://beta.readng.co/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
-* [Effective TypeScript](https://beta.readng.co/book/effective-typescript-by-dan-vanderkam-aEUUa)
-* [Thinking in Systems](https://beta.readng.co/book/thinking-in-systems-by-donella-meadows-IEhaq)
-* [Distributed Node. Js](https://beta.readng.co/book/distributed-node-js-by-ii-thomas-hunter-CiGEo)
+* [Software Engineering at Google](https://oku.club/book/software-engineering-at-google-by-titus-winters-X8Af4)
+* [Real-Time Phoenix](https://oku.club/book/real-time-phoenix-by-stephen-bussey-ncVAB)
+* [Fundamentals of Software Architecture](https://oku.club/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
+* [Effective TypeScript](https://oku.club/book/effective-typescript-by-dan-vanderkam-aEUUa)
+* [Thinking in Systems](https://oku.club/book/thinking-in-systems-by-donella-meadows-IEhaq)
+* [Distributed Node. Js](https://oku.club/book/distributed-node-js-by-ii-thomas-hunter-CiGEo)
 
-P.S: This list updates itself from my [readng](https://beta.readng.co/user/simonedavico) profile :)
+P.S: This list updates itself from my [Oku](https://oku.club/user/simonedavico) profile :)
