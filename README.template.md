@@ -27,4 +27,4 @@ Books I plan to read next:
 
 {{toRead}}
 
-P.S: This list updates itself from my [readng](https://beta.readng.co/user/simonedavico) profile :)
+P.S: This list updates itself from my [Oku](https://oku.club/user/simonedavico) profile :)

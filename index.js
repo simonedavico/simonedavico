@@ -16,7 +16,7 @@ const BookCollections = Object.freeze({
 });
 
 /**
- * A readng.co feed
+ * An oku.club feed
  * @typedef {Object} FeedItem
  * @property {string} creator
  * @property {string} title
@@ -29,15 +29,13 @@ const BookCollections = Object.freeze({
  */
 
 /**
- * Fetches the feed for a books collection on readng.co
+ * Fetches the feed for a books collection on oku.club
  *
  * @param {string} collectionId the id of the collection
  * @returns {Promise<Feed>} the parsed feed
  */
 const fetchBooksCollectionFeed = (collectionId) => {
-  return feedParser.parseURL(
-    `https://beta.readng.co/rss/collection/${collectionId}`
-  );
+  return feedParser.parseURL(`https://oku.club/rss/collection/${collectionId}`);
 };
 
 /**
@@ -52,7 +50,7 @@ const feedToMarkdownList = async (feedId) => {
 };
 
 /**
- * Updates the readme, fetching the books list from readng.co
+ * Updates the readme, fetching the books list from oku.club
  */
 const generateReadme = async () => {
   const readmeTemplate = fs.readFileSync("./README.template.md", {
