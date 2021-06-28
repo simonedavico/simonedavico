@@ -17,8 +17,8 @@ I like to be polyglot and ~full-stack~ T-shaped, and I am currently moving my fi
 
 Currently reading:
 
+* [Domain Modeling Made Functional](https://beta.readng.co/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
 * [Designing Data-Intensive Applications](https://beta.readng.co/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
-* [Software Engineering at Google](https://beta.readng.co/book/software-engineering-at-google-by-titus-winters-X8Af4)
 
 Tech books I have read lately:
 
@@ -30,11 +30,11 @@ Tech books I have read lately:
 
 Books I plan to read next:
 
+* [Software Engineering at Google](https://beta.readng.co/book/software-engineering-at-google-by-titus-winters-X8Af4)
 * [Real-Time Phoenix](https://beta.readng.co/book/real-time-phoenix-by-stephen-bussey-ncVAB)
 * [Fundamentals of Software Architecture](https://beta.readng.co/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
 * [Effective TypeScript](https://beta.readng.co/book/effective-typescript-by-dan-vanderkam-aEUUa)
 * [Thinking in Systems](https://beta.readng.co/book/thinking-in-systems-by-donella-meadows-IEhaq)
-* [Domain Modeling Made Functional](https://beta.readng.co/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
 * [Distributed Node. Js](https://beta.readng.co/book/distributed-node-js-by-ii-thomas-hunter-CiGEo)
 
 P.S: This list updates itself from my [readng](https://beta.readng.co/user/simonedavico) profile :)
