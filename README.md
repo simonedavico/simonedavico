@@ -17,6 +17,7 @@ I like to be polyglot and ~full-stack~ T-shaped, and I am currently moving my fi
 
 Currently reading:
 
+* [Real-Time Phoenix](https://oku.club/book/real-time-phoenix-by-stephen-bussey-ncVAB)
 * [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
 
 Tech books I have read lately:
@@ -31,7 +32,6 @@ Tech books I have read lately:
 Books I plan to read next:
 
 * [Software Engineering at Google](https://oku.club/book/software-engineering-at-google-by-titus-winters-X8Af4)
-* [Real-Time Phoenix](https://oku.club/book/real-time-phoenix-by-stephen-bussey-ncVAB)
 * [Fundamentals of Software Architecture](https://oku.club/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
 * [Effective TypeScript](https://oku.club/book/effective-typescript-by-dan-vanderkam-aEUUa)
 * [Thinking in Systems](https://oku.club/book/thinking-in-systems-by-donella-meadows-IEhaq)
