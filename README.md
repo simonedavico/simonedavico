@@ -10,7 +10,7 @@ I like to be polyglot and ~full-stack~ T-shaped, and I am currently moving my fi
 
 - 💻 **Languages I like:**: ES6, TypeScript, ReasonML, Elixir;
 - 🗣 **Take a look at my presentations** on [SpeakerDeck](https://speakerdeck.com/simonedavico). The latest one is [A Sip of Elixir](https://speakerdeck.com/simonedavico/a-sip-of-elixir).
-- 📋 **Read my blog posts** on [Medium](https://medium.com/@simonedavico). The latest one is [Integrate XState with React Native and React Navigation](https://medium.com/welld-tech/integrate-xstate-with-react-native-and-react-navigation-21ead87391da).
+- 📋 **Read my blog posts** on [Medium](https://medium.com/@simonedavico). The latest one is [Testing XState machines in your React Native app](https://medium.com/welld-tech/testing-xstate-machines-in-your-react-native-app-236fb01bf5b8).
 - 🐦 **You can find me on** [twitter](https://twitter.com/simonedavico), [LinkedIn](https://linkedin.com/in/simonedavico) or [ItaliaJS](https://italia-js.org/).
 
 ### Books 📚
