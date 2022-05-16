@@ -17,8 +17,8 @@ I like to be polyglot and ~full-stack~ T-shaped, and I am currently moving my fi
 
 Currently reading:
 
+* [Learning Domain-Driven Design](https://oku.club/book/learning-domain-driven-design-by-vlad-khononov-GDkTP)
 * [System Design Interview - An Insider's Guide, Second Edition](https://oku.club/book/system-design-interview-an-insiders-g...-by-alex-xu-i9AHx)
-* [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
 
 Tech books I have read lately:
 
@@ -31,6 +31,7 @@ Tech books I have read lately:
 
 Books I plan to read next:
 
+* [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
 * [Building Micro-Frontends](https://oku.club/book/building-micro-frontends-by-luca-mezzalira-kIOIM)
 * [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-steve-klabnik-byejY)
 * [Real-Time Phoenix](https://oku.club/book/real-time-phoenix-by-stephen-bussey-ncVAB)
