@@ -4,13 +4,13 @@
 **simonedavico/simonedavico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a software engineer with a focus on ES6 and TS. I enjoy participating in tech communities and meetups. Amateur speaker and blogger. 
+I'm a software engineer with a focus on Elixir and ES6/TS. I enjoy participating in tech communities and meetups. Amateur speaker and blogger. 
 
-I like to be polyglot and ~full-stack~ T-shaped, and I am currently moving my first steps with [Elixir](https://elixir-lang.org/) 🧪. 
+I am a generalist at heart, and I am currently moving my first steps with [Rust](https://www.rust-lang.org/) 🦀. 
 
-- 💻 **Languages I like:**: ES6, TypeScript, ReasonML, Elixir;
+- 💻 **Languages I like:**: JS/TS, Elixir (and any other functions-as-first-class-citizen language);
 - 🗣 **Take a look at my presentations** on [SpeakerDeck](https://speakerdeck.com/simonedavico). The latest one is [A Sip of Elixir](https://speakerdeck.com/simonedavico/a-sip-of-elixir).
-- 📋 **Read my blog posts** on [Medium](https://medium.com/@simonedavico). The latest one is [Testing XState machines in your React Native app](https://medium.com/welld-tech/testing-xstate-machines-in-your-react-native-app-236fb01bf5b8).
+- 📋 **Read my blog posts** on [Medium](https://medium.com/@sdavico). The latest one is [Supercharging our event-sourcing capabilities with Phoenix LiveView](https://medium.com/casavo/supercharging-our-event-sourcing-capabilities-with-phoenix-liveview-c4a9d1d4ab99).
 - 🐦 **You can find me on** [twitter](https://twitter.com/simonedavico), [LinkedIn](https://linkedin.com/in/simonedavico) or [ItaliaJS](https://italia-js.org/).
 
 ### Books 📚
