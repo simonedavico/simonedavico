@@ -33,7 +33,7 @@ Books I plan to read next:
 
 * [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
 * [Building Micro-Frontends](https://oku.club/book/building-micro-frontends-by-luca-mezzalira-kIOIM)
-* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-carol-nichols-byejY)
+* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-steve-klabnik-byejY)
 * [Real-Time Phoenix](https://oku.club/book/real-time-phoenix-by-stephen-bussey-ncVAB)
 * [Software Engineering at Google](https://oku.club/book/software-engineering-at-google-by-titus-winters-X8Af4)
 * [Fundamentals of Software Architecture](https://oku.club/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
