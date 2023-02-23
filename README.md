@@ -17,11 +17,13 @@ I am a generalist at heart, and I am currently moving my first steps with [Rust]
 
 Currently reading:
 
-* [Learning Domain-Driven Design](https://oku.club/book/learning-domain-driven-design-by-vlad-khononov-GDkTP)
-* [System Design Interview - An Insider's Guide, Second Edition](https://oku.club/book/system-design-interview-an-insiders-g...-by-alex-xu-i9AHx)
+* [The Laws of Simplicity](https://oku.club/book/the-laws-of-simplicity-by-john-maeda-s7DYi)
+* [Designing Elixir Systems with OTP](https://oku.club/book/designing-elixir-systems-with-otp-by-james-edward-gray-ii-jDOZp)
 
 Tech books I have read lately:
 
+* [Learning Domain-Driven Design](https://oku.club/book/learning-domain-driven-design-by-vlad-khononov-GDkTP)
+* [System Design Interview - An Insider's Guide, Second Edition](https://oku.club/book/system-design-interview-an-insiders-g...-by-alex-xu-i9AHx)
 * [Domain Modeling Made Functional](https://oku.club/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
 * [Frameworkless Front-End Development](https://oku.club/book/frameworkless-front-end-development-by-francesco-strazzullo-vgbH2)
 * [Domain-Driven Design Distilled](https://oku.club/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
