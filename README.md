@@ -28,14 +28,14 @@ Tech books I have read lately:
 * [Frameworkless Front-End Development](https://oku.club/book/frameworkless-front-end-development-by-francesco-strazzullo-vgbH2)
 * [Domain-Driven Design Distilled](https://oku.club/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
 * [Node. Js Design Patterns](https://oku.club/book/node-js-design-patterns-by-luciano-mammino-D7KR3)
-* [Programming Phoenix](https://oku.club/book/programming-phoenix-by-chris-mccord-xYWpd)
+* [Programming Phoenix](https://oku.club/book/programming-phoenix-by-jose-valim-xYWpd)
 * [Building Evolutionary Architectures](https://oku.club/book/building-evolutionary-architectures-by-neal-ford-dXxoU)
 
 Books I plan to read next:
 
 * [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
 * [Building Micro-Frontends](https://oku.club/book/building-micro-frontends-by-luca-mezzalira-kIOIM)
-* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-carol-nichols-byejY)
+* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-steve-klabnik-byejY)
 * [Real-Time Phoenix](https://oku.club/book/real-time-phoenix-by-stephen-bussey-ncVAB)
 * [Software Engineering at Google](https://oku.club/book/software-engineering-at-google-by-titus-winters-X8Af4)
 * [Fundamentals of Software Architecture](https://oku.club/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
