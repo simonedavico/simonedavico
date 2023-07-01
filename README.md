@@ -30,7 +30,7 @@ Tech books I have read lately:
 * [Domain Modeling Made Functional](https://oku.club/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
 * [Frameworkless Front-End Development](https://oku.club/book/frameworkless-front-end-development-by-francesco-strazzullo-vgbH2)
 * [Domain-Driven Design Distilled](https://oku.club/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
-* [Node. Js Design Patterns](https://oku.club/book/node-js-design-patterns-by-mario-casciaro-D7KR3)
+* [Node. Js Design Patterns](https://oku.club/book/node-js-design-patterns-by-luciano-mammino-D7KR3)
 * [Programming Phoenix](https://oku.club/book/programming-phoenix-by-chris-mccord-xYWpd)
 * [Building Evolutionary Architectures](https://oku.club/book/building-evolutionary-architectures-by-neal-ford-dXxoU)
 
