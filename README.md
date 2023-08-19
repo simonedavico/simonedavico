@@ -22,27 +22,24 @@ Currently reading:
 
 Tech books I have read lately:
 
+* [Thinking in Systems](https://oku.club/book/thinking-in-systems-by-donella-meadows-IEhaq)
 * [Effective Remote Work](https://oku.club/book/effective-remote-work-by-dr-james-stanier-avU5y)
 * [Real-Time Phoenix](https://oku.club/book/real-time-phoenix-by-stephen-bussey-ncVAB)
 * [The Laws of Simplicity](https://oku.club/book/the-laws-of-simplicity-by-john-maeda-s7DYi)
 * [Learning Domain-Driven Design](https://oku.club/book/learning-domain-driven-design-by-vlad-khononov-GDkTP)
 * [System Design Interview - An Insider's Guide, Second Edition](https://oku.club/book/system-design-interview-an-insiders-g...-by-alex-xu-i9AHx)
 * [Domain Modeling Made Functional](https://oku.club/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
-* [Frameworkless Front-End Development](https://oku.club/book/frameworkless-front-end-development-by-francesco-strazzullo-vgbH2)
 * [Domain-Driven Design Distilled](https://oku.club/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
-* [Node. Js Design Patterns](https://oku.club/book/node-js-design-patterns-by-luciano-mammino-D7KR3)
 * [Programming Phoenix](https://oku.club/book/programming-phoenix-by-jose-valim-xYWpd)
-* [Building Evolutionary Architectures](https://oku.club/book/building-evolutionary-architectures-by-neal-ford-dXxoU)
 
 Books I plan to read next:
 
+* [The Staff Engineer's Path](https://oku.club/book/the-staff-engineers-path-by-tanya-reilly-bic7o)
 * [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
-* [Building Micro-Frontends](https://oku.club/book/building-micro-frontends-by-luca-mezzalira-kIOIM)
 * [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-carol-nichols-byejY)
 * [Software Engineering at Google](https://oku.club/book/software-engineering-at-google-by-titus-winters-X8Af4)
 * [Fundamentals of Software Architecture](https://oku.club/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
 * [Effective TypeScript](https://oku.club/book/effective-typescript-by-dan-vanderkam-aEUUa)
-* [Thinking in Systems](https://oku.club/book/thinking-in-systems-by-donella-meadows-IEhaq)
 * [Distributed Node. Js](https://oku.club/book/distributed-node-js-by-ii-thomas-hunter-CiGEo)
 
 P.S: This list updates itself from my [Oku](https://oku.club/user/simonedavico) profile :)
