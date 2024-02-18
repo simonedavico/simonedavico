@@ -36,7 +36,7 @@ Books I plan to read next:
 
 * [The Staff Engineer's Path](https://oku.club/book/the-staff-engineers-path-by-tanya-reilly-bic7o)
 * [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
-* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-steve-klabnik-byejY)
+* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-carol-nichols-byejY)
 * [Software Engineering at Google](https://oku.club/book/software-engineering-at-google-by-titus-winters-X8Af4)
 * [Fundamentals of Software Architecture](https://oku.club/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
 * [Effective TypeScript](https://oku.club/book/effective-typescript-by-dan-vanderkam-aEUUa)
