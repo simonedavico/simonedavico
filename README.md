@@ -30,7 +30,7 @@ Tech books I have read lately:
 * [System Design Interview - An Insider's Guide, Second Edition](https://oku.club/book/system-design-interview-an-insiders-g...-by-alex-xu-i9AHx)
 * [Domain Modeling Made Functional](https://oku.club/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
 * [Domain-Driven Design Distilled](https://oku.club/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
-* [Programming Phoenix](https://oku.club/book/programming-phoenix-by-jose-valim-xYWpd)
+* [Programming Phoenix](https://oku.club/book/programming-phoenix-by-chris-mccord-xYWpd)
 
 Books I plan to read next:
 
