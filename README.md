@@ -30,13 +30,13 @@ Tech books I have read lately:
 * [System Design Interview - An Insider's Guide, Second Edition](https://oku.club/book/system-design-interview-an-insiders-g...-by-alex-xu-i9AHx)
 * [Domain Modeling Made Functional](https://oku.club/book/domain-modeling-made-functional-by-scott-wlaschin-Uu0bJ)
 * [Domain-Driven Design Distilled](https://oku.club/book/domain-driven-design-distilled-by-vaughn-vernon-HuotC)
-* [Programming Phoenix](https://oku.club/book/programming-phoenix-by-jose-valim-xYWpd)
+* [Programming Phoenix](https://oku.club/book/programming-phoenix-by-chris-mccord-xYWpd)
 
 Books I plan to read next:
 
 * [The Staff Engineer's Path](https://oku.club/book/the-staff-engineers-path-by-tanya-reilly-bic7o)
 * [Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-mNYMn)
-* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-carol-nichols-byejY)
+* [The Rust Programming Language (Covers Rust 2018)](https://oku.club/book/the-rust-programming-language-by-steve-klabnik-byejY)
 * [Software Engineering at Google](https://oku.club/book/software-engineering-at-google-by-titus-winters-X8Af4)
 * [Fundamentals of Software Architecture](https://oku.club/book/fundamentals-of-software-architecture-by-neal-ford-JkPDm)
 * [Effective TypeScript](https://oku.club/book/effective-typescript-by-dan-vanderkam-aEUUa)
